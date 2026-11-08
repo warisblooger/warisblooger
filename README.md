@@ -36,6 +36,9 @@ A typical build covers the interface, the app or site, store listings, and suppo
 
 | Product | What it is | |
 | --- | --- | --- |
+| **PromptPix** | AI prompt generator for Gemini and ChatGPT, with Image to Prompt and Video to Prompt. 1M+ installs on Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.promptpix.editprompts) · [App Store](https://apps.apple.com/us/app/promptpix-ai-prompt-generator/id6755055761) · [promptpix.net](https://promptpix.net) |
+| **EditPix** | Presets, templates, and prompt ideas for photo and video editors. Android | [Play Store](https://play.google.com/store/apps/details?id=com.waheedstudios.editpix) |
+| **VidTap** | Video Saver. Save videos for offline viewing. Android | [Play Store](https://play.google.com/store/apps/details?id=com.vidtap) |
 | **Upsora** | AI photo enhancer, DP maker, captions, and cleanup for Android and iOS | [Support](https://wahastudios.org/upsora/support/) |
 | **CoolPrompt** | Free AI photo prompts you can copy into ChatGPT or Gemini | [Support](https://wahastudios.org/coolprompt/support/) |
 | **PromptLeez** | AI photo and video prompts, favorites, and one-tap open in ChatGPT or Gemini | [Support](https://wahastudios.org/promptleez/support/) |
