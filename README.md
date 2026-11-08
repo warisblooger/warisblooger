@@ -2,6 +2,10 @@
   <img src="assets/banner.png" alt="Syed Waris — product developer for Android, iOS, and the web" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/syed-waris.jpg" alt="Syed Waris" width="180">
+</p>
+
 <h3 align="center">Syed Waris</h3>
 
 <p align="center">
