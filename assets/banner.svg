@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Syed Waris, founder of ZorixSoft and WAHA Studios">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10131c"/>
+      <stop offset="1" stop-color="#07080d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d6ff4a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d6ff4a"/>
+      <stop offset="1" stop-color="#d6ff4a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <circle cx="1120" cy="40" r="180" fill="#d6ff4a" opacity="0.06"/>
+  <circle cx="80" cy="320" r="140" fill="#8b7cff" opacity="0.08"/>
+  <text x="72" y="78" fill="#d6ff4a" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial" font-size="18" letter-spacing="6">SYED WARIS</text>
+  <text x="72" y="168" fill="#f4f1ea" font-family="Georgia, Times New Roman, serif" font-size="64">Product developer</text>
+  <text x="72" y="228" fill="#a39e94" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial" font-size="24">Android · iOS · Web · Store publishing</text>
+  <rect x="72" y="268" width="220" height="2" fill="url(#line)"/>
+  <text x="72" y="312" fill="#f4f1ea" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial" font-size="18">ZorixSoft</text>
+  <text x="200" y="312" fill="#6f6a62" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial" font-size="18">·</text>
+  <text x="224" y="312" fill="#f4f1ea" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial" font-size="18">WAHA Studios</text>
+</svg>
