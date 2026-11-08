@@ -20,7 +20,9 @@
   &nbsp;·&nbsp;
   <a href="mailto:hello@zorixsoft.com">hello@zorixsoft.com</a>
   &nbsp;·&nbsp;
-  <a href="tel:+923055922080">+92 305 5922080</a>
+  <a href="https://wa.me/923055922080">WhatsApp</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/warisaiofficial">Facebook</a>
 </p>
 
 ---
@@ -67,7 +69,8 @@ A typical build covers the interface, the app or site, store listings, and suppo
 | | |
 | --- | --- |
 | Email | [hello@zorixsoft.com](mailto:hello@zorixsoft.com) |
-| Phone | [+92 305 5922080](tel:+923055922080) |
+| WhatsApp | [+92 305 5922080](https://wa.me/923055922080) |
+| Facebook | [facebook.com/warisaiofficial](https://www.facebook.com/warisaiofficial) |
 | Web | [zorixsoft.com](https://zorixsoft.com) · [wahastudios.org](https://wahastudios.org) |
 | Portfolio | [warisblooger.github.io](https://warisblooger.github.io) |
 
